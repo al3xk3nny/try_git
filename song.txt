@@ -4,3 +4,5 @@ Think I need a devil to help me
 Get things right
 
 This is the first new line after creating a new branch.
+
+This is the second new line after creating a new branch.
